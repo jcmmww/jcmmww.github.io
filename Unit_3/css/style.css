@@ -14,8 +14,8 @@ p {
 	font-style: color,yellow;
  }
 
-li { 
-	font-style: color,yellow;
+ul { 
+	list-style: color,yellow;
  }
 
 
