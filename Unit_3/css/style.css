@@ -10,7 +10,8 @@ body {
 
 }
 
-p { font: yellow;
+p { 
+	font color: yellow;
  }
 
 
