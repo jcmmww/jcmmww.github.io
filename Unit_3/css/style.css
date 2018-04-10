@@ -9,7 +9,9 @@ body {
 	background-color: blue;
 
 }
-p {}
+p {
+	color: yellow;
+}
 
 ul li {
 	color: yellow;
