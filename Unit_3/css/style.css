@@ -7,5 +7,10 @@ h1 {
 
 body {
 	background-color: blue;
-	font-style: color: yellow;
- }	
+
+}
+p {}
+
+ul{
+	list-style: yellow;
+}
