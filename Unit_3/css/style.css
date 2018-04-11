@@ -1,15 +1,22 @@
 h1 {
-	color: yellow;
-	font-size: 36px;
+	color: #E0D90F;
+	font-size: 45px;
 	font-weight: bold;
+	font-style: italic;
 	text-align: center;
+	background-color: #0E7F18;
+	line-height: 5
 }
 
 body {
-	background-color: green;
+	color: #E0D90F;
+	background-color: #ABCAF7;
 	}
 
 p {
-	color: yellow;
+	color: #0E7F18;
+	font-size: 20px;
+	line-height: 1
+	
 }
 	 
