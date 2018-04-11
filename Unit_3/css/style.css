@@ -9,13 +9,15 @@ h1 {
 }
 
 body {
-	color: #E0D90F;
+	color: #0E7F18;
 	background-color: #b2e0e8;
+	font-size: 20px;
 	}
 
 p {
 	color: #0E7F18;
-	font-size: 20px;
+	font-size: 25px;
+	font-family: Helvetica
 	line-height: 1
 	
 }
