@@ -1,5 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 h1 {
 	color: #E0D90F;
+	font-family: Roboto;
 	font-size: 45px;
 	font-weight: bold;
 	font-style: italic;
@@ -10,12 +14,14 @@ h1 {
 
 body {
 	color: #0E7F18;
+	font-family: Raleway,sans-serif;
 	background-color: #b2e0e8;
-	font-size: 20px;
+	font-size: 25px;
 	}
 
 p {
 	color: #0E7F18;
+	font-family: Raleway,sans-serif;
 	font-size: 25px;
 	font-family: Helvetica
 	line-height: 1
