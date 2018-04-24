@@ -3,12 +3,13 @@
 
 h1 {
 	color: #E0D90F;
+	background-color: #0E7F18;
 	font-family: Roboto;
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: bold;
 	font-style: italic;
 	text-align: center;
-		line-height: 5
+		line-height: 2
 }
 
 body {
@@ -16,7 +17,7 @@ body {
 	font-family: Raleway,sans-serif;
 	background-color: #b2e0e8;
 	font-size: 25px;
-	margin: 50;
+	margin: 40;
 	}
 
 p {
@@ -33,7 +34,7 @@ header
 { 
 	background-color: #FFED74;
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 1 px;
 
 	  }
 
