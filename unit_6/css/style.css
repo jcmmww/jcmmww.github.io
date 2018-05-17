@@ -7,7 +7,7 @@
 }
 
 h1 {
-	color: #E0D90F;
+	color: #0E7F18;
 	background-color: #0E7F18;
 	font-family: Roboto;
 	font-size: 40px;
@@ -28,7 +28,7 @@ h2 {
 }
 
 body {
-	color: #0E7F18;
+	color: #E0D90f;
 	font-family: Raleway,sans-serif;
 	background-color: #b2e0e8;
 	font-size: 25px;
@@ -36,7 +36,7 @@ body {
 	}
 
 p {
-	color: #0E7F18;
+	color: ;
 	font-family: Raleway,sans-serif;
 	font-size: 25px;
 	font-family: Helvetica
@@ -79,7 +79,7 @@ main {
 
 #content{
     border: 2px solid red;
-    width: 60%;
+    width: 70%;
     display: inline-block;
 }
 
